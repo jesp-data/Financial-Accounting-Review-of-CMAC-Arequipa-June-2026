@@ -6,7 +6,7 @@ A continuación se realizará una revisión de sus principales cuentas contables
 
 ## DISPONIBLE
 
-<img width="829" height="507" alt="disponible arequipa" src="https://github.com/user-attachments/assets/efdb6f2d-b008-470e-a5f6-82d987126ef3" />
+<img width="829" height="507" alt="disponible arequipa" src="https://github.com/user-attachments/assets/ca069732-3da0-4f96-a614-b7054d7c5463" />
 
 - **[📊 Ver Gráfico Interactivo: Disponible AREQUIPA](
 https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/sub_disponible%20AREQUIPA.html)**
