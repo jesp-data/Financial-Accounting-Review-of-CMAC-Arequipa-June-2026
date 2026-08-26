@@ -8,3 +8,6 @@ A continuación se realizará una revisión de sus principales cuentas contables
 
 
 <iframe src="https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/disponible%20AREQUIPA.html" width="100%" height="600"></iframe>
+
+
+<iframe src="https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/[nombre-del-archivo].html" width="100%" height="600" style="border:none;"></iframe>
