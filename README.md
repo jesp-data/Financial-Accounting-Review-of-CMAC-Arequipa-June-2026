@@ -29,10 +29,10 @@ Los Créditos Atrasados y Refinados/Reestructurados (verde claro) ganaron mayor 
 
 <img width="829" height="507" alt="creditos_arequipa" src="https://github.com/user-attachments/assets/992c9c4e-5be6-4ed8-84fe-28de5dcd393e" />
 
-- **[📊 Ver Gráfico Interactivo: Creditos AREQUIPA](Plots/sub_disponible%20AREQUIPA.html)**
+- **[📊 Ver Gráfico Interactivo: Creditos AREQUIPA]([Plots/sub_disponible%20AREQUIPA.html](https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/creditos_AREQUIPA.html))**
 ---
 
 **Notas:**
 - La presente revisión se realiza sobre la información pública presentada por la SBS.
 - Este trabajo tiene fines exclusivamente educativos.
-- Wor in progress
+- Work in progress
