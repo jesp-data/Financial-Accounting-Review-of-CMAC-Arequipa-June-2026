@@ -15,7 +15,7 @@ https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-20
 <img width="829" height="507" alt="sub_disponible arequipa" src="https://github.com/user-attachments/assets/3d70ddf6-be82-4755-bda6-04f6bf217931" />
 
 
-- **[📊 Ver Gráfico Interactivo: Sub Disponible AREQUIPA](Plots/sub_disponible%20AREQUIPA.html)**
+- **[📊 Ver Gráfico Interactivo: Sub Disponible AREQUIPA](https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/sub_disponible%20AREQUIPA.html)**
 
 El Rubro Disponible de CMAC Arequipa experimentó una tendencia fuertemente alcista entre 2010 y 2026, pasando de niveles iniciales cercanos a los S/ 300,000 mil hasta alcanzar un máximo histórico por encima de los S/ 1.77 millones en 2026. A lo largo de esta serie histórica destaca una fase de crecimiento sostenido hasta 2019, seguida por un periodo de alta volatilidad entre 2020 y 2024 (con importantes fluctuaciones y correcciones severas hasta los S/ 650,000 mil), para finalmente cerrar con una notable aceleración y fuerte expansión en los últimos dos años.
 
@@ -29,7 +29,7 @@ Los Créditos Atrasados y Refinados/Reestructurados (verde claro) ganaron mayor 
 
 <img width="829" height="507" alt="creditos_arequipa" src="https://github.com/user-attachments/assets/992c9c4e-5be6-4ed8-84fe-28de5dcd393e" />
 
-- **[📊 Ver Gráfico Interactivo: Creditos AREQUIPA]([Plots/sub_disponible%20AREQUIPA.html](https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/creditos_AREQUIPA.html))**
+- **[📊 Ver Gráfico Interactivo: Creditos AREQUIPA](https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/[Plots/sub_disponible%20AREQUIPA.html](https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/creditos_AREQUIPA.html))**
 ---
 
 **Notas:**
