@@ -36,7 +36,7 @@ Los Créditos Atrasados y Refinados/Reestructurados ganaron mayor presencia visi
 
 <img width="829" height="507" alt="patrimonio_arequipa" src="https://github.com/user-attachments/assets/e26c657d-7432-48dd-a59e-4dce06c44faa" />
 
-- **[📊 Ver Gráfico Interactivo: Creditos AREQUIPA](https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/patrimonio_AREQUIPA.html)**
+- **[📊 Ver Gráfico Interactivo: patrimonio AREQUIPA](https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/patrimonio_AREQUIPA.html)**
 
 La evolución del Patrimonio de la CMAC Arequipa refleja una solidez financiera en constante expansión entre 2010 y 2026, escalando desde niveles cercanos a los S/ 250,000 mil hasta superar los S/ 1,200,000 mil hacia el final del periodo . La base de este crecimiento reside fundamentalmente en la capitalización sostenida del Capital Social y la acumulación de Reservas, componentes que representan la mayor parte de la estructura patrimonial y garantizan un soporte financiero robusto frente a la expansión de sus operaciones.
 
