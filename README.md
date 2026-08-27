@@ -31,6 +31,14 @@ Se evidencia una sostenida expansión de la cartera de créditos de CMAC Arequip
 
 Los Créditos Atrasados y Refinados/Reestructurados ganaron mayor presencia visible a partir de 2020-2021, lo que conllevó a un incremento gradual en las Provisiones, que pasaron a restar montos más significativos del patrimonio/activo para mitigar el riesgo crediticio conforme crecía la cartera total.
 
+# OBLIGACIONES CON EL PUBLICO
+
+<img width="829" height="507" alt="obligaciones arequipa" src="https://github.com/user-attachments/assets/561493e1-af83-4648-9131-2c0dd0e48988" />
+
+- **[📊 Ver Gráfico Interactivo: Sub Disponible AREQUIPA](https://jesp-data.github.io/Financial-Accounting-Review-of-CMAC-Arequipa-June-2026/Plots/obligaciones_AREQUIPA.html)**
+- 
+Las Obligaciones con el Público de la CMAC Arequipa experimentaron una notable expansión entre 2010 y 2026, escalando desde los S/ 1,300,000 mil hasta bordear un récord histórico de S/ 9,500,000 mil, impulsadas principalmente por un fuerte repunte en las captaciones a partir de 2023. Esta estructura de fondeo está fuertemente dominada por los Depósitos a Plazo, que abarcan entre el 60% y 65% del total pasando de S/ 900,000 mil a más de S/ 6,200,000 mil, seguidos por los Depósitos de Ahorro, que aportan entre el 30% y 35% con un incremento continuo que alcanzó los S/ 3,000,000 mil; en tanto, componentes como los Depósitos Restringidos se mantienen en rangos menores (S/ 150,000 - S/ 300,000 mil).
+
 
 # PATRIMONIO
 
